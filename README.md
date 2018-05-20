@@ -1,6 +1,6 @@
 # README
 
-* git clone https://github.com/LionGS/6th-comments-prectice.git
+* git clone https://github.com/LionGS/6th-comments-practice.git
 
 * bundle install
 
